@@ -14,8 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="076bef5e-5275-494f-bd1d-12bd6b4d38b5" />
   <component name="ProjectId" id="232dAt7Wyti3bDkRxrViIKX1xus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -53,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640935976934</updated>
       <workItem from="1640935978453" duration="69000" />
-      <workItem from="1640936058606" duration="323000" />
+      <workItem from="1640936058606" duration="919000" />
     </task>
     <servers />
   </component>
